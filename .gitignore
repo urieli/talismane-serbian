@@ -1,0 +1,14 @@
+# Talismane .gitignore
+.classpath
+.project
+.settings
+bin/
+build/
+doc/
+target/
+dist/
+build/
+logs/
+data/
+lib/
+logback.xml
