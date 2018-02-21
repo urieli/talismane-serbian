@@ -1,0 +1,79 @@
+# Dependency labels for Serbian.
+# ParCoLab project.
+# author: A. Miletic
+# 2017
+Ap
+ArgComp
+AuxV
+Cit
+ComplNum
+ComplPrep
+ConjCoord
+Coord
+Correl
+DepAdjAdj
+DepAdjAdv
+DepAdjCas
+DepAdjPrep
+DepAdvAdv
+DepAdvCas
+DepAdvPrep
+DepEx_DepAdjAdv
+DepEx_DepNAdj
+DepEx_DepNCas
+DepEx_DepNPrep
+DepEx_DepVAdv
+DepEx_DepVCas
+DepEx_DepVPart
+DepEx_DepVPrep
+DepEx_ObjDir
+DepEx_ObjIndirCas
+DepEx_ObjIndirPrep
+DepEx_PredicComplObj
+DepEx_PredicComplSuj
+DepEx_PredicNom
+DepEx_Sub
+DepEx_Suj
+DepEx_SujLog
+DepNAdj
+DepNCas
+DepNPrep
+DepVAdv
+DepvCas
+DepVCas
+DepVInf
+DepVPart
+DepVPrep
+Emph
+ExtraPred
+Interrog
+Juxt
+Neg
+ObjDir
+ObjIndirCas
+ObjIndirPrep
+Polylex
+Ponct
+PredCompletive
+PredicAdv
+PredicComplObj
+PredicComplSuj
+PredicNom
+PredicOpt
+PredPercont
+PredRap
+PredRel
+PredSub
+Ref
+Root
+Sub
+Suj
+SujLog
+
+# Added
+# Train Line 727
+Elp
+
+# Corrected
+# Line 31638
+# CoordF
